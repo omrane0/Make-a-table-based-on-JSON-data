@@ -1,0 +1,22 @@
+<?php
+$myObj->name = "John";
+$myObj->age = 30;
+$myObj->city = "New York";
+
+$myJSON = json_encode($myObj);
+
+echo $myJSON;
+?>
+
+
+
+
+Sorry
+404 - The page cannot be found
+We cannot find the page you are looking for.
+
+It might have been removed, had its name changed, or is temporarily unavailable.
+
+Please check that the Web site address is spelled correctly.
+
+Or go to our home page, and use the menus to navigate to a specific section.
